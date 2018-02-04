@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>Unity</id>
+    <version>5.2.1</version>
+    <authors>Microsoft.Practices.Unity</authors>
+    <owners>Microsoft.Practices.Unity</owners>
+    <licenseUrl>https://github.com/unitycontainer/unity/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/unitycontainer/unity</projectUrl>
+    <iconUrl>https://avatars1.githubusercontent.com/u/12849707</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Unity Container Library as single package</description>
+    <releaseNotes>Entire Unity Library as single package.
+
+- Unity.Abstractions.2.2.1
+- Unity.Container.5.2.1
+- Unity.Configuration.5.0.6
+- Unity.RegistrationByConvention.2.1.0
+- Unity.Interception.5.0.6
+- Unity.Interception.Configuration.5.0.6
+- Unity.ServiceLocation.2.0.6
+- CommonServiceLocator.2.0.1</releaseNotes>
+    <copyright>Copyright © Microsoft 2008</copyright>
+    <tags>Unity Container unitycontainer Microsoft.Practices.Unity IoC</tags>
+  </metadata>
+</package>
